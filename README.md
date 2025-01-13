@@ -24,6 +24,8 @@ Interested: Was the topic interesting and enjoyable for the child?
 
 Another Class?: Is the child interested in taking another class with the same teacher?
 
+https://docs.google.com/spreadsheets/d/1-Z0MNHZgPXIzys0Q28xCKILh5dFh_3CpeXT1XeHkleM/edit?gid=1206168317#gid=1206168317
+
 
 
 
